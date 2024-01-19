@@ -1,0 +1,14 @@
+/* Order */
+@layer reset, primevue;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+}
